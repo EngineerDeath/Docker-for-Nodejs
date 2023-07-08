@@ -18,4 +18,4 @@ services:
     
     working_dir: /app
 
-    command: npm start
+    command: npm run dev
